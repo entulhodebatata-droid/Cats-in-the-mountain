@@ -10,7 +10,7 @@ from Diagramá.Const import WIN_WIDTH, COR_VERDE, COR_PRETO, INTERFACE, COR_ROXA
 class interface:
     def __init__(self, window):
         self.window = window
-        self.surf = pygame.image.load ('./assets/capa.png')
+        self.surf = pygame.image.load ('./assets/capa.png').convert_alpha()
         self.rect = self.surf.get_rect(left= 0, top= 0)
 # ================================================================== (Música)
     def run(self, ):
