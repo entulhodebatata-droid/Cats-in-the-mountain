@@ -2,4 +2,4 @@
 
 
 Trabalho para a faculdade feito por mim, todos os assets foram geraodos pela minha pessoa e não devem ser reutilizados, contudo, as músicas foram retiradas de sites online sem dirieoitos autorais.
-Caits in the mountain é um jogo sobre um casal de felinos que para conquistar sua preciosa erva de gato, lutam contra os câes que vivem nas parte mais altas das montanhas! :D
+Cats in the mountain é um jogo sobre um casal de felinos que para conquistar sua preciosa erva de gato, lutam contra os câes que vivem nas parte mais altas das montanhas! :D
